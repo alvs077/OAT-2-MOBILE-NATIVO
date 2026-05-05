@@ -17,18 +17,6 @@ O aplicativo é composto por três módulos principais:
 *   **📊 Dashboard (Painel Principal):** Visão geral das finanças do usuário, exibindo um cartão de saldo atual em destaque e o histórico das transações mais recentes.
 *   **📈 Análise de Orçamento:** Interface detalhada para acompanhamento de gastos por categoria (Alimentação, Transporte, Lazer) através de barras de progresso visuais e intuitivas.
 
----
-
-## 📸 Screenshots
-
-*(Substitua os links abaixo pelas imagens do seu projeto)*
-
-<div align="center">
-  <img src="link_da_imagem_login.png" width="200" />
-  <img src="link_da_imagem_cadastro.png" width="200" />
-  <img src="link_da_imagem_dashboard.png" width="200" />
-  <img src="link_da_imagem_analise.png" width="200" />
-</div>
 
 ---
 
